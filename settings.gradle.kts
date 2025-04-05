@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Bumperpick"
+rootProject.name = "App Skeleton"
 include(":app")
  
